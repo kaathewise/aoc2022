@@ -6,4 +6,4 @@ The hard rule is simple: the solution should only consist of a single expression
 
 There are also a couple of ways to work around the single expression limitation, such as assignment expressions, tuples-as-control-flow, and `eval`'ing arbitrary code. While those are not restricted, the aim should only be to use them for readability, and not to abuse them.
 
-
+Note: all of the files have a solution for the second part of the problem, and some have a commented-out line for the first part of the problem.
