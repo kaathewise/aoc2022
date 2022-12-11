@@ -1,4 +1,4 @@
-# aoc2022
+# AOC 2022 Python one-liners
 
 Python one-liners for https://adventofcode.com/2022.
 
